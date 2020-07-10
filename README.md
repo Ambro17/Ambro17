@@ -1,4 +1,14 @@
-### Hi there 👋
+### Ambro17
+
+👨‍💻 I'm Nahuel Ambrosini, a Python developer which loves to automate the boring stuff.
+
+⚡ Currently, my interests are mostly GraphQL APIs Design and automation integrations to pave the way of DevOps
+
+📚 Collaborator of [Python Spanish Translation](https://github.com/python/python-docs-es)
+
+💬 You can reach me on Telegram at @BoedoCrow if you want to know more about me or some of my projects
+
+💼 Working remotely at @onapsis
 
 <!--
 **Ambro17/Ambro17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
