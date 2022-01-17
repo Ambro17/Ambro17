@@ -8,7 +8,7 @@
 
 💬 You can reach me on Telegram at @BoedoCrow if you want to know more about me or some of my projects
 
-💼 Working remotely at @onapsis
+💼 Working remotely at [@shiphero](https://github.com/Shiphero)
 
 <!--
 **Ambro17/Ambro17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
